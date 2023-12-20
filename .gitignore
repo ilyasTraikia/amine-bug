@@ -1,0 +1,8 @@
+/shop/node_modules
+/shop/.next
+
+/home/node_modules
+/home/.next
+
+/checkout/node_modules
+/checkout/.next
